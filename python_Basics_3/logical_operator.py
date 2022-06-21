@@ -1,0 +1,16 @@
+# logical 
+
+print(4 > 5)
+print(4 < 5)
+print(4 == 5)
+print(4 <= 5)
+print(4 >= 5)
+print('a' > 'b')
+print('a' > 'A')
+print('frey' > 'Luffy')
+print(1 > 2 > 3 < 4)
+print(1 < 2 > 3 < 4)
+print(1 < 2 < 3 < 4)
+print(0 >= 1)
+print('Frey' != 'God')
+print(not True)
